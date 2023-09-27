@@ -50,6 +50,9 @@
 .des_main_heading{
     font-size: 3vh;
 }
+label{
+    font-size:2.5vh;
+}
 .input_details{
     display: flex;
     justify-content: center;
@@ -166,6 +169,7 @@ margin: 6vh 0vh;
 .location_hotel{
     padding: 1vh 2vh;
     color: grey;
+    font-size:2.3vh;
 }
 .price{
     padding: 2vh 2vh;
@@ -180,6 +184,7 @@ footer {
   footer .container {
     max-width: 960px;
     margin: 0 auto;
+      font-size:2vh;
   }
   
   footer .row {
@@ -206,12 +211,12 @@ footer {
   }
   .city_name {
     position: absolute;
-    bottom: 27px; /* Adjust the distance from the bottom as needed */
+    bottom: 44px; /* Adjust the distance from the bottom as needed */
     left: 15px; /* Adjust the distance from the left as needed */
     background-color: rgb(133 130 130 / 68%); /* Background color for better readability */
     color: white; /* Text color */
     padding: 5px 10px; /* Padding around the text */
-    font-size: 16px; /* Adjust the font size as needed */
+    font-size: 23px; /* Adjust the font size as needed */
     border-radius:2vh ;
 }
 #sub_udaipur{
